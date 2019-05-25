@@ -40,6 +40,7 @@ input:hover, input:focus {
 /* line 26, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_common.scss */
 .section_padding {
   padding: 140px 0px;
+  background-color: rgba(214,147,25,0.35);
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
@@ -2833,6 +2834,8 @@ ul {
 .exclusive_item_part {
   position: relative;
   z-index: 1;
+  background-color: rgba(214,147,25,0.35);
+
 }
 
 /* line 5, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_exclusive_item_part.scss */
@@ -2874,10 +2877,12 @@ ul {
   .exclusive_item_part {
     padding-top: 70px;
     margin-bottom: -20px;
+    background-color: rgba(214,147,25,0.35);
   }
   /* line 31, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_exclusive_item_part.scss */
   .exclusive_item_part .single_blog_item {
     margin-bottom: 20px;
+    background-color: rgba(214,147,25,0.35);
   }
 }
 
@@ -2911,6 +2916,7 @@ ul {
   position: relative;
   z-index: 1;
   padding: 80px 0px;
+  background-color: rgba(214,147,25,0.35);
 }
 
 /* line 7, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_about.scss */
